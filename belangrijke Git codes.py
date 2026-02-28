@@ -15,4 +15,7 @@ git add Branch ... # voegt een branch toe
 git Push origin ... # voegt andere item toe aan git
 
 
+git checkout main
+git pull origin main
+git branch -d .... # verwijderd een branch
 """
